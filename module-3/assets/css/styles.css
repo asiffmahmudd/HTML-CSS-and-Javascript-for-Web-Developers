@@ -1,0 +1,41 @@
+a.navbar-brand.navbar-link{
+  color:white;
+}
+
+
+nav.navbar.navbar-inverse{
+  border-radius:0;
+}
+
+body{
+  padding:0;
+  margin:0;
+}
+h3{
+	text-align: center;
+}
+body{
+	box-sizing: border-box;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.menu{
+	background-color: grey;
+	overflow: hidden;
+	padding: 20px; 
+	margin-top: 10px;
+}
+.navbar-nav{
+	text-align: center;
+}
+#toggle-button{
+	border: 1px solid white;
+}
+li{
+	
+}
+li:hover{
+	background-color: grey;
+}
+.menu-item{
+	color: black;
+}
